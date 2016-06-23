@@ -1,0 +1,18 @@
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\Porsha\Downloads\downloads_supplementalcontent\en-us\downloads\03232016034753\CS-Code\Lesson_10\Before\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\Porsha\Downloads\downloads_supplementalcontent\en-us\downloads\03232016034753\CS-Code\Lesson_10\Before\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\Porsha\Downloads\downloads_supplementalcontent\en-us\downloads\03232016034753\CS-Code\Lesson_10\Before\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\Porsha\Downloads\downloads_supplementalcontent\en-us\downloads\03232016034753\CS-Code\Lesson_10\Before\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\Porsha\Downloads\downloads_supplementalcontent\en-us\downloads\03232016034753\CS-Code\Lesson_10\Before\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\Porsha\Downloads\downloads_supplementalcontent\en-us\downloads\03232016034753\CS-Code\Lesson_10\Before\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\Porsha\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\Porsha\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\Porsha\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\Porsha\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\Porsha\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\Porsha\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache

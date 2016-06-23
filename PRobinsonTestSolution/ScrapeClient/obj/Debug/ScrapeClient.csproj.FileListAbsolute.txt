@@ -1,0 +1,8 @@
+c:\users\porsha\documents\visual studio 2015\Projects\PRobinsonTestSolution\ScrapeClient\bin\Debug\ScrapeClient.exe.config
+c:\users\porsha\documents\visual studio 2015\Projects\PRobinsonTestSolution\ScrapeClient\bin\Debug\ScrapeClient.exe
+c:\users\porsha\documents\visual studio 2015\Projects\PRobinsonTestSolution\ScrapeClient\bin\Debug\ScrapeClient.pdb
+c:\users\porsha\documents\visual studio 2015\Projects\PRobinsonTestSolution\ScrapeClient\bin\Debug\ScrapeLibrary.dll
+c:\users\porsha\documents\visual studio 2015\Projects\PRobinsonTestSolution\ScrapeClient\bin\Debug\ScrapeLibrary.pdb
+c:\users\porsha\documents\visual studio 2015\Projects\PRobinsonTestSolution\ScrapeClient\obj\Debug\ScrapeClient.csprojResolveAssemblyReference.cache
+c:\users\porsha\documents\visual studio 2015\Projects\PRobinsonTestSolution\ScrapeClient\obj\Debug\ScrapeClient.exe
+c:\users\porsha\documents\visual studio 2015\Projects\PRobinsonTestSolution\ScrapeClient\obj\Debug\ScrapeClient.pdb

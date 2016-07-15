@@ -11,10 +11,10 @@ namespace QuickSortApplication
         static void Main(string[] args)
         {
             //Create an unsorted array of numbers
-            int[] unsorted = { 99, 88, 44, 33, 22, 66, 55, 11, 77 };
-            QuickSort(unsorted, 0, unsorted.Length - 1);
+            int[] unsorted = { 99, 88, 44, 33, 22, 66, 55, 11, 77, 99, 88, 44, 33, 22, 66, 55, 11, 77, 99, 88, 44, 33, 22, 66, 55, 11, 77 };
+            QuickSort(unsorted, 0, unsorted.Length-1);
 
-            for (int i = 0; i < unsorted.Length-1; i++)
+            for (int i = 0; i < unsorted.Length; i++)
             {
                 Console.Write(unsorted[i] + " ");
             }
